@@ -12,4 +12,6 @@ main(List<string> arguments){
   print(num1!=num2);
   print(num1>=num2);
   print(num1<=num2);
+  print(num1 is int);
+  print(num11 is! bool);
 }
